@@ -1,5 +1,11 @@
 # covid
 
+![image](https://user-images.githubusercontent.com/26883843/164896100-49f761a2-a2b8-458a-b77d-e3dadf99edad.png)
+
+![image](https://user-images.githubusercontent.com/26883843/164896108-7019daa7-2014-4ca9-83ca-556d33220618.png)
+
+
+
 A new Flutter project.
 
 ## Getting Started
